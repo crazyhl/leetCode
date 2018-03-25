@@ -1,4 +1,4 @@
-package main
+ipackage main
 
 import (
 	"fmt"
@@ -10,7 +10,6 @@ import (
 给定一个罗马数字，将其转换成整数。
 
 返回的结果要求在 1 到 3999 的范围内。
-每个输入参数的边界满足 1 <= left <= right <= 10000。
 
 
 思路： 具体解法请参考 https://baike.baidu.com/item/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97/772296?fr=aladdin
